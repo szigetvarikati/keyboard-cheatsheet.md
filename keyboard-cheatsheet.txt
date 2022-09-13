@@ -15,3 +15,22 @@ Slashes and bar
    Slash: /       Alt + 47
    Backslash: \   Alt + 92
    Bar: |         Alt + 124
+
+
+All the other necessary characters
+  Tilde: ~              Alt + 126
+  Exclamation mark: !   Alt + 33
+  Question mark: ?      Alt + 63
+  At: @                 Alt + 64
+  Hash: #               Alt + 35
+  Dollar sign: $        Alt + 36
+  Percent: %            Alt + 37
+  Ampersand: &          Alt + 38
+  Asterisk: *           Alt + 42
+  Dash: -               Alt + 45
+  Plus: +               Alt + 43
+  Equal: =              Alt + 61
+  Colon: :              Alt + 58
+  Semicolon: ;          Alt + 59
+  Dot: .                Alt + 46
+  Comma: ,              Alt + 44

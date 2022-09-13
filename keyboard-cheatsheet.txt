@@ -1,4 +1,11 @@
-Round brackets aka parentheses:   ( Alt + 40      ) Alt + 41
-Square brackets aka box brackets: [ Alt + 91      ] Alt + 93
-Curly brackets aka curly braces:  { Alt + 123     } Alt + 125
-Angle brackets aka chevrons:      < Alt + 60      > Alt + 62
+Brackets
+  Round brackets aka parentheses:   ( Alt + 40      ) Alt + 41
+  Square brackets aka box brackets: [ Alt + 91      ] Alt + 93
+  Curly brackets aka curly braces:  { Alt + 123     } Alt + 125
+  Angle brackets aka chevrons:      < Alt + 60      > Alt + 62
+
+
+Quotation marks
+  Single quote: '   Alt + 39
+  Double quote: "   Alt + 34
+  Backtick: `       Alt + 96

@@ -9,3 +9,9 @@ Quotation marks
   Single quote: '   Alt + 39
   Double quote: "   Alt + 34
   Backtick: `       Alt + 96
+
+
+Slashes and bar
+   Slash: /       Alt + 47
+   Backslash: \   Alt + 92
+   Bar: |         Alt + 124
